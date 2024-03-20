@@ -16,7 +16,6 @@ mkdir -p backup
 cp dados_de_vendas.csv backup/backup-dados-${data_atual}.csv
 
 cd backup
-touch relatorios.txt
 
 #Teste
 #echo ${data_atual}
